@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+        margin: 0;
         font-family: 'Segoe UI', sans-serif;
         background-color: #fff;
         color: #222;
@@ -24,13 +24,13 @@ body {
         font-weight: bold;
     }
     
-    .subtitle {
+    .zamech {
         text-transform: uppercase;
         font-weight: bold;
         margin: 20px 0;
     }
     
-    .location {
+    .locol {
         border-bottom: 1px solid #cbd5e1;
         margin: 20px 0;
         padding-bottom: 10px;
